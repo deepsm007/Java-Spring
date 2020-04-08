@@ -3,7 +3,7 @@ A sample Java Spring boot applications to implement the CRUD operation with rest
 
 After running the application navigate to the browser and type in the URL: http://localhost:8080/users
 
-To utilize the REST api you can use POSTMAN for the GET, POST, PUT, DELETE operations.
+To utilize the REST api you can use POSTMAN for the GET, POST, PUT, DELETE operations. user: admin pwd: admin
 
 ## Dockerfile ##
 
