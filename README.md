@@ -5,7 +5,7 @@ After running the application navigate to the browser and type in the URL: http:
 
 To utilize the REST api you can use POSTMAN for the GET, POST, PUT, DELETE operations.
 
-### Dockerfile ###
+## Dockerfile ##
 
 The Dockerfile is added to the project to run the Java-Spring project as a docker container.
 
@@ -39,7 +39,7 @@ $ docker stop {container_id}
 
 For any queries you can connect with me on LinkedIN: 
 
-# https://www.linkedin.com/in/deepsm007/
+### https://www.linkedin.com/in/deepsm007/ ###
 
-# THANK YOU!!! #
+## THANK YOU!!! ##
 
